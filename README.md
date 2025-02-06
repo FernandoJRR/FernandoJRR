@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Fernando</h1>
 <h3 align="center">From Guatemala, enthusiastic CS and Software Engineer student!</h3>
 
-- 🔭 I’m currently working and learning **Compiler Design** and **Backend Development**
-- 🌱 I’m currently learning **Programming Language Theory** and **Systems Programming with Rust 🦀**
-- 💬 Ask me about **Java**
+- 🔭 I’m currently working and learning **Fullstack Development** and **CI / CD**
+- 🌱 I’m interested on **Compiler and Programming Languages Design** and **Low-Level programming with Rust 🦀**
+- 💬 Ask me about **Java**, **Vue**, **Laravel**
 - 📫 How to reach me: **fercitotron@gmail.com**
 
 <div class="wrapper" markdown="1" align="center">
